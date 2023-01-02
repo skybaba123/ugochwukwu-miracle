@@ -2,7 +2,7 @@
   "portfolio": [
     {
       "cover": "/portfolio/4/sky-bank-mobile.png",
-      "title": "Sky Bank Mobile",
+      "title": "Sky Bank Mobile-App",
       "description": "Javascript, React Native, Context-Api, Firebase",
       "url": "https://sky-bank-home.netlify.app/",
       "repo": "https://github.com/skybaba123/sky-bank-mobile"
