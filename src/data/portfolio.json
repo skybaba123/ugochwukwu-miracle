@@ -1,0 +1,42 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/4/sky-bank-mobile.png",
+      "title": "Sky Bank Mobile",
+      "description": "Javascript, React Native, Context-Api, Firebase",
+      "url": "https://sky-bank-home.netlify.app/",
+      "repo": "https://github.com/skybaba123/sky-bank-mobile"
+    },
+    {
+      "cover": "/portfolio/3/sky-bank.png",
+      "title": "Sky Bank Web",
+      "description": "React, Javascript, context-Api, Routes, scss, Firebase",
+      "url": "https://sky-bank-home.netlify.app/",
+      "repo": "https://github.com/skybaba123/sky-banking"
+    },
+
+    {
+      "cover": "/portfolio/2/link-shortener.jpg",
+      "title": "Link Shortener",
+      "description": " React, Javascript, Api",
+      "url": " https://slink-shortner.netlify.app/",
+      "repo": "https://github.com/skybaba123/link-shortner"
+    },
+
+    {
+      "cover": "/portfolio/1/country-rest-api.jpg",
+      "title": "Country Rest Api",
+      "description": "Javascript, React, Routes, Api",
+      "url": "https://rest-api-country-skybaba.netlify.app/",
+      "repo": "https://github.com/skybaba123/country-restApi"
+    },
+
+    {
+      "cover": "/portfolio/0/pigame.png",
+      "title": "Pig Game",
+      "description": "Html, Css, Javascript",
+      "url": "https://skybaba123.github.io/pig-game/",
+      "repo": "https://github.com/skybaba123/pig-game"
+    }
+  ]
+}

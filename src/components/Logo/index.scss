@@ -1,0 +1,29 @@
+.logo-container {
+  z-index: 0;
+  width: 400px;
+  height: 609px;
+  position: absolute;
+  top: 20rem;
+  right: 15px;
+  bottom: 0;
+  left: auto;
+  margin: auto;
+  opacity: 1;
+  animation: infinite shakeY;
+      animation-duration: 12s;
+
+  .solid-logo {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: -20rem;
+    margin: auto;
+    width: 100%;
+    opacity: 1;
+    animation: animate__heartBeat;
+    animation-duration: 2s;
+    transform: rotateZ(30deg) !important;
+    z-index: 1;
+  }
+}
