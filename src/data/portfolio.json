@@ -16,13 +16,20 @@
     },
 
     {
+      "cover": "/portfolio/5/job-listing.jpg",
+      "title": "Job Listing",
+      "description": " React, Javascript, scss",
+      "url": "https://sky-job-listing.netlify.app/",
+      "repo": "https://github.com/skybaba123/static-job-listing"
+    },
+
+    {
       "cover": "/portfolio/2/link-shortener.jpg",
       "title": "Link Shortener",
       "description": " React, Javascript, Api",
-      "url": " https://slink-shortner.netlify.app/",
+      "url": "https://slink-shortner.netlify.app/",
       "repo": "https://github.com/skybaba123/link-shortner"
     },
-
     {
       "cover": "/portfolio/1/country-rest-api.jpg",
       "title": "Country Rest Api",
@@ -30,7 +37,6 @@
       "url": "https://rest-api-country-skybaba.netlify.app/",
       "repo": "https://github.com/skybaba123/country-restApi"
     },
-
     {
       "cover": "/portfolio/0/pigame.png",
       "title": "Pig Game",
