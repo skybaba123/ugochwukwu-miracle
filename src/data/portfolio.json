@@ -16,6 +16,14 @@
     },
 
     {
+      "cover": "/portfolio/6/ip-address-tracker.jpg",
+      "title": "IP Address Tracker",
+      "description": "React, Javascript, TailwindCss, leaflet",
+      "url": "https://sky-ip-address-tracker.netlify.app/",
+      "repo": "https://github.com/skybaba123/ip-address-tracker"
+    },
+
+    {
       "cover": "/portfolio/5/job-listing.jpg",
       "title": "Job Listing",
       "description": " React, Javascript, scss",
