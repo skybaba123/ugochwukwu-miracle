@@ -26,7 +26,6 @@ const Sidebar = () => {
     <div className="nav-bar">
       <Link className="logo" to="/">
         <img src={Logo} alt="logo" />
-       
       </Link>
       <nav
         onClick={() => setShowNav(false)}
@@ -76,7 +75,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/skybaba123"
+            href="https://www.linkedin.com/in/skybaba/"
           >
             <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
           </a>
@@ -96,7 +95,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/skybaba123"
+            href="https://twitter.com/whonosabi"
           >
             <FontAwesomeIcon icon={faTwitter} color="#4d4d4e" />
           </a>
