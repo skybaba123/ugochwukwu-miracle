@@ -9,7 +9,7 @@ import Loader from 'react-loaders'
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
   const nameArray = ' Ugochukwu'.split('')
-  const jobArray = 'Software Developer'.split('')
+  const jobArray = 'Software Dev'.split('')
 
   useEffect(() => {
     setTimeout(() => {
