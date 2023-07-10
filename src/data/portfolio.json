@@ -1,16 +1,23 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/7/soundhaven_preview.png",
+      "title": "Sound Haven",
+      "description": "Javascript, React Native, NodeJs, MongoDB",
+      "url": "https://sound-haven-client-web.vercel.app/",
+      "repo": "https://github.com/skybaba123/sound-haven-mobile"
+    },
+    {
       "cover": "/portfolio/4/sky-bank-mobile.png",
       "title": "Sky Bank Mobile-App",
-      "description": "Javascript, React Native, Context-Api, Firebase",
+      "description": "Javascript, React Native, Firebase",
       "url": "https://sky-bank-home.netlify.app/",
       "repo": "https://github.com/skybaba123/sky-bank-mobile"
     },
     {
       "cover": "/portfolio/3/sky-bank.png",
       "title": "Sky Bank Web",
-      "description": "React, Javascript, context-Api, Routes, scss, Firebase",
+      "description": "React, Javascript, Routes, scss, Firebase",
       "url": "https://sky-bank-home.netlify.app/",
       "repo": "https://github.com/skybaba123/sky-banking"
     },
