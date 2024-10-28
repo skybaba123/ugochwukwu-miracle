@@ -1,6 +1,27 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/10/Investinnova_preview.png",
+      "title": "Investinnova - Investment Platform",
+      "description": "NextJs, MongoDB",
+      "url": "https://investinnova.vercel.app/",
+      "repo": "https://github.com/skybaba123"
+    },
+    {
+      "cover": "/portfolio/9/lteurl_preview.png",
+      "title": "LteUrl - Link shortener",
+      "description": "Javascript, ReactJS, NodeJs, MongoDB",
+      "url": "https://lteurl.netlify.app/",
+      "repo": "https://github.com/skybaba123"
+    },
+    {
+      "cover": "/portfolio/8/crypven_preview.png",
+      "title": "CrypVen - Crypto vendor platform",
+      "description": "Javascript, ReactJS, NodeJs, MongoDB",
+      "url": "https://crypven-laravel-demo.netlify.app/",
+      "repo": "https://github.com/skybaba123"
+    },
+    {
       "cover": "/portfolio/7/soundhaven_preview.png",
       "title": "Sound Haven",
       "description": "Javascript, React Native, NodeJs, MongoDB",
